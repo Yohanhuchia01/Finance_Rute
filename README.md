@@ -1,13 +1,53 @@
-# React + Vite
+# 💸 FinanceRute
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **¡Toma el control de tus finanzas personales de forma simple, visual y poderosa!**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Funcionalidades Principales
 
-## Expanding the ESLint configuration
+### 📝 Registro de Ingresos y Gastos
+- Añade ingresos (salario, freelance, etc.) y gastos (comida, alquiler, transporte, etc.) de manera rápida y sencilla.
+- Especifica **fecha**, **cantidad** y **descripción** en cada transacción.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Finance_Rute
+---
+
+### 🏷️ Categorización de Transacciones
+- Organiza tus movimientos con **categorías predefinidas** (Alimentos, Vivienda, Ocio, etc.).
+- ¡Crea tus propias categorías personalizadas!
+
+---
+
+### 📊 Visualización de Datos
+- Gráficos de barras, circulares y de líneas para entender tu flujo de dinero.
+- Resúmenes visuales para ver en qué gastas y cómo evolucionan tus finanzas.
+
+---
+
+### 🎯 Presupuestos Inteligentes
+- Define cuánto quieres gastar por categoría (ej: $300 en Comida/mes).
+- Visualiza tu progreso y recibe alertas si te acercas o superas el límite.
+
+---
+
+### 📅 Informes y Resúmenes
+- Genera informes **mensuales** y **anuales** de ingresos, gastos, ahorros y cumplimiento de presupuestos.
+- Obtén una visión clara y detallada de tu situación financiera.
+
+---
+
+### 💰 Seguimiento de Ahorros
+- Establece metas de ahorro (ej: $100/mes para un viaje).
+- Haz seguimiento de tu progreso hacia cada objetivo.
+
+---
+
+### 🏦 Múltiples Cuentas (Opcional)
+- Gestiona varias cuentas bancarias, tarjetas de crédito, etc.
+- Visualiza todas tus finanzas en un solo lugar.
+
+---
+
+## ✨ ¡Empieza a construir tu libertad financiera con FinanceRute!
+
+---
